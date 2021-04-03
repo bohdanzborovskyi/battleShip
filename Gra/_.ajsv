@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2017-фев-10 17:04" licenseGrade="evaluation" licenseeName="BA7818660904131407015518753C0009B91801A769F288F5616E6F6E2C756E6B6E6F776E2C6261676131343235333640676D61696C2E636F6D2C=" licenseeOrganization="orgunknown" populationMethod="manual" version="1.9.0.v20160922-0809">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="Okno" modelMemberId="Okno" project="Gra" xLocation="832" yLocation="297"/>
+        <class className="Ruch" modelMemberId="Ruch" project="Gra" xLocation="218" yLocation="746"/>
+        <class className="komputer" modelMemberId="komputer" project="Gra" xLocation="227" yLocation="367"/>
+        <class className="Main" modelMemberId="Main" project="Gra" xLocation="566" yLocation="272"/>
+    </diagram>
+</ajsv>
